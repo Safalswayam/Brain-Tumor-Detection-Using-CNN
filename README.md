@@ -7,13 +7,21 @@ This project is a deep learning-based solution to detect brain tumors from MRI i
 Place your dataset in the following format under `brain_tumor_dataset/`:
 
 brain_tumor_dataset/
+
 ├── yes/
+
 │ ├── image1.jpg
+
 │ ├── image2.jpg
+
 │ └── ...
+
 └── no/
+
 ├── image1.jpg
+
 ├── image2.jpg
+
 └── ...
 
 markdown
