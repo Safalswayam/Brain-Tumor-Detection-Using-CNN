@@ -1,3 +1,4 @@
+#pip install kagglehub #install in the kernel
 import kagglehub
 
 # Download latest version
